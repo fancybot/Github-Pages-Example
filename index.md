@@ -1,6 +1,6 @@
 <body>
-hello,world!
-<!--   <div class="index-wrapper">
+
+   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
         <h1>FANCYBOT</h1>
@@ -8,14 +8,14 @@ hello,world!
       <div id="particles-js"></div>
     </div>
     <div class="index-content">
-      <ul class="artical-list">
+<!--       <ul class="artical-list">
         {% for post in site.categories.blog %}
         <li>
           <a href="{{ post.url }}" class="title">{{ post.title }}</a>
           <div class="title-desc">{{ post.description }}</div>
         </li>
         {% endfor %}
-      </ul>
+      </ul> -->
     </div>
-  </div> -->
+  </div> 
 </body>
