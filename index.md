@@ -1,5 +1,6 @@
 <body>
-  <div class="index-wrapper">
+hello,world!
+<!--   <div class="index-wrapper">
     <div class="aside">
       <div class="info-card">
         <h1>FANCYBOT</h1>
@@ -16,5 +17,5 @@
         {% endfor %}
       </ul>
     </div>
-  </div>
+  </div> -->
 </body>
